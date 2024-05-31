@@ -31,3 +31,9 @@ Schema:- id:{
         type:Date,
         required:true
     }
+
+    Screenshot:-
+    ![Screenshot (434)](https://github.com/prabhatkumar99/Roxiler_System/assets/70852706/ab9e6ca2-f033-41e1-8dc7-0bbf44606ad5)
+    
+![Screenshot (435)](https://github.com/prabhatkumar99/Roxiler_System/assets/70852706/5e247627-1559-4277-abb4-8de20e6e0311)
+
