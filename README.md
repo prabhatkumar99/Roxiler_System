@@ -1,36 +1,9 @@
 Website link- https://6659fb9acf4d1968c663efbb--stupendous-horse-eca1fe.netlify.app/
-Schema:- id:{
-        type:String,
-        required:true
-    },
-    title:{
-        type:String,
-        required:true
-    },
-    price:{
-        type:String,
-        required:true
-    },
-    description:{
-        type:String,
-        required: true
-    },
-    image:{
-        type:String,
-        required:true
-    },
-    category:{
-        type:String,
-        required:true
-    },
-    sold:{
-        type:Boolean,
-        required:true,
-    },
-    dateOfSale:{
-        type:Date,
-        required:true
-    }
+Schema:- 
+![Screenshot (436)](https://github.com/prabhatkumar99/Roxiler_System/assets/70852706/e77221be-87de-4f7d-af97-66a0a671c5e6)
+![Screenshot (437)](https://github.com/prabhatkumar99/Roxiler_System/assets/70852706/ada59a69-571a-439d-b6c2-112e108861b5)
+
+        
 
     Screenshot:-
     
